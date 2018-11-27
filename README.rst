@@ -66,7 +66,7 @@ the symbols and cursors layers provided by such keyboard layouts as ``3l`` or `N
 and are far less difficult to switch to due to the lower frequency of these characters
 and the lack of keybindings involving them.
 
-.. _ `Neo`: http://neo-layout.org/index_en.html
+.. _`Neo`: http://neo-layout.org/index_en.html
 
 This layout is intended to make typing code or other symbol-intensive things more ergonomic and 
 easier by providing symbols in an easier-to-reach place by providing a symbols layer. It should
