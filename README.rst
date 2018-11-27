@@ -23,22 +23,7 @@ Having looked at the FreeBSD implementation of ``3l``, I don't think this layout
 worth implementing in FreeBSD due to the way shortcomings in its keyboard drivers hamper its
 ability to add layers.
 
-Currently, there are no images of the layout, but the symbols layer is as follows:
-
-Q-row: ``"_[]^!<>=&``
-
-A-row: ``/-{}*?()': <sym> <enter>``
-
-Z-row: ``#$|~`+%\@ <cur> <shift>``
-
-where the first letter of the row is the first symbol in the list. Sym is on the QWERTY 
-apostrophe/quote and gives access to this layer.
-
-The cursors layer is as follows:
-
-Q-row: ``PgUp Bksp  Up  Del  PgDn``
-
-A-row: ``Home Left Down Rght End``
+.. image:: docs/layout.jpeg
 
 with PgUp on Q and Home on A. The right side of the layer is unused (``3l`` has a
 numpad on the right side, but in my experience this has weird errors and is hard
