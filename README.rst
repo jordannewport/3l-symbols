@@ -11,7 +11,7 @@ use of the symbols layer is required, because certain symbol keys are replaced b
 the modifier keys that give access to the symbol and cursor layers, so the only way to type
 those symbols is with the symbols layer.
 
-.. _'Jack Rosenthal's 3l layout`: https://github.com/jackrosenthal/threelayout
+.. _`Jack Rosenthal's 3l layout`: https://github.com/jackrosenthal/threelayout
 
 ``3l-symbols`` is currently implemented only for Linux and Windows. The Windows version is untested;
 feel free to tell me about any issues you find.
