@@ -25,11 +25,8 @@ ability to add layers.
 
 .. image:: docs/layout.jpeg
 
-with PgUp on Q and Home on A. The right side of the layer is unused (``3l`` has a
-numpad on the right side, but in my experience this has weird errors and is hard
-to use because the pinkie must hold down the Cur modifier while the rest of the
-hand types, leading to painful stretching). Cur is on the QWERTY slash/question
-mark and gives access to this layer.
+The Sym layer includes the symbols on the upper right of the keys, while the Cur layer includes the
+symbols on the bottom of Q-T and A-G.
 
 No other keys are changed; without the modifiers held down the layout is normal QWERTY 
 (except that the characters normally typed by the modifier keys will not work).
