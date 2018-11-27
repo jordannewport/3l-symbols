@@ -6,7 +6,7 @@ What is ``3l-symbols``?
 
 ``3l-symbols`` could be considered an alternative keyboard layout. It uses the QWERTY letter keys,
 but improves coding ergonomics by including
-the symbol and cursor layers from `Jack Rosenthal's 3l layout`. Note that 
+the symbol and cursor layers from `Jack Rosenthal's 3l layout`_. Note that 
 use of the symbols layer is required, because certain symbol keys are replaced by
 the modifier keys that give access to the symbol and cursor layers, so the only way to type
 those symbols is with the symbols layer.
@@ -61,7 +61,7 @@ typing regular letters, but in my experience, it is far more difficult to switch
 an alternative layout if you are highly familiar with a set of keybindings, such as
 those provided by a text editor such as Vim (my personal experience). Additionally,
 switching to a new layout provides dubious speed benefits (in my opinion). However, 
-the symbols and cursors layers provided by such keyboard layouts as ``3l`` or `Neo`
+the symbols and cursors layers provided by such keyboard layouts as ``3l`` or `Neo`_
 (from which ``3l`` itself derives much of its versions of these layers) are still highly useful,
 and are far less difficult to switch to due to the lower frequency of these characters
 and the lack of keybindings involving them.
