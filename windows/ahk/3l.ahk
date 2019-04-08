@@ -69,8 +69,8 @@ SC028 & SC025::Send {)}
 SC026::l
 +SC026::L
 SC028 & SC026::Send {'}
-SC027::Send{;}
-+SC027::Send{:}
+SC027::Send {;}
++SC027::Send {:}
 SC028 & SC027::Send {:}
 
 SC02C::z
@@ -94,11 +94,11 @@ SC028 & SC031::Send {+}
 SC032::m
 +SC032::M
 SC028 & SC032::Send {`%}
-SC033::Send{,}
-+SC033::Send{<}
+SC033::Send {,}
++SC033::Send {<}
 SC028 & SC033::Send {\}
-SC034::Send{.}
-+SC034::Send{>}
+SC034::Send {.}
++SC034::Send {>}
 SC028 & SC034::Send {@}
 
 RAlt & LAlt::Suspend
