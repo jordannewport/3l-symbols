@@ -13,8 +13,7 @@ symbols is with the symbols layer.
 
 .. _`Jack Rosenthal's 3l layout`: https://github.com/jackrosenthal/threelayout
 
-``3l-symbols`` is currently implemented only for Linux and Windows. The Windows
-version is untested; feel free to tell me about any issues you find.  I can't
+``3l-symbols`` is currently implemented only for Linux and Windows. I can't
 really see wanting to make a Mac version myself, but maybe someone else will.
 If you want to try, be warned: the Linux, FreeBSD, and Windows implementations
 of ``3l`` (the reference layout for this one) are all under 300 lines, but the
