@@ -34,15 +34,14 @@ by this layout.  This also includes the whole left column of keys--Tab, Caps,
 etc. I personally run an xmodmap on top of this layout that remaps those keys,
 but you can do what you like, including nothing at all.
 
-Motivation (brief)
-------------------
+Motivation
+----------
 
 Switching to a new keyboard layout is hard. It is difficult enough to switch for
 typing regular letters, but in my experience, it is far more difficult to switch
 to an alternative layout if you are highly familiar with a set of keybindings,
 such as those provided by a text editor such as Vim (my personal experience).
-Additionally, switching to a new layout provides dubious speed benefits (in my
-opinion). However, the symbols and cursors layers provided by such keyboard
+However, the symbols and cursors layers provided by such keyboard
 layouts as ``3l`` or `Neo`_ (from which ``3l`` itself derives much of its
 versions of these layers) are still highly useful, and are far less difficult to
 switch to due to the lower frequency of these characters
@@ -56,10 +55,6 @@ providing a symbols layer. It should not make a big difference to speed in
 either direction if what is being typed is not symbol-intensive. It also
 provides a cursor layer, which includes arrow, navigation, and delete keys on or
 near home row.
-
-For a more extensive argument about why you should use a symbols layer for
-QWERTY rather than using a more extreme alternative layout or using QWERTY
-without a symbols layer, please see ``extended-motivation.pdf``.
 
 Testing the layout without installation
 ---------------------------------------
