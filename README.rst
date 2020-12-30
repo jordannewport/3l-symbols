@@ -1,6 +1,10 @@
 ``3l-symbols`` - A symbols layer for QWERTY
 ===========================================
 
+ARCHIVED--see `the new location at sr.ht`_
+
+.. _`the new location at sr.ht`: https://sr.ht/~talos/threelayout-symbols/
+
 What is ``3l-symbols``?
 -------------------
 
